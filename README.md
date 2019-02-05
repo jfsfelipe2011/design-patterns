@@ -26,12 +26,12 @@ tem, ou seja, o que ele se propõem em fazer ou resolver.
 
 Com isso temos 3 tipos, que são:
 
-- Criação (Creation): São os padrões que tem como preocupção
+- **Criação** (**Creation**): São os padrões que tem como preocupção
 a criação de objetos.
 
-- Estruturais (Structural): São os padrões que lidam com a composição
+- **Estruturais** (**Structural**): São os padrões que lidam com a composição
 de classes/objetos.
 
-- Comportamentais (Behavioral): São os padrões que caracterizam
+- **Comportamentais** (**Behavioral**): São os padrões que caracterizam
 as maneiras pelas quais classes/objetos interagem e distribuem
 responsabilidades.
