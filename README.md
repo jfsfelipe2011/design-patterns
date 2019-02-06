@@ -7,7 +7,7 @@ dos mais diversos design patterns(Padrões de Projeto) em PHP.
 
 Na verdade esse repo tem como objetivo o estudo e consulta de como
 foi implementado os design patterns. Mas caso queira rodar algum
-exemplo específico, você pode acessar a pasta do padrão e rodar
+exemplo específico, você pode acessar a pasta do padrão rodar o composer install e rodar
 o server do proprio php, com o comando:
 
 ```shell
