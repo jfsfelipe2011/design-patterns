@@ -17,4 +17,4 @@ pelo uso das factories concretas das classes-produtos.
 
 ##### Estrutura
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/img/estrutura_abstract_factory.png)
