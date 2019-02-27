@@ -19,3 +19,5 @@ em volta de algum objeto, assim o transformando.
 ![Estrutura](https://i.ibb.co/D5Y5mKp/estrutura-decorator.png)
 
 #### Exemplo
+
+![Exemplo](https://i.ibb.co/h767Wtk/exemplo-decorator.png)
