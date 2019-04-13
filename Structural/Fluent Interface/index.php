@@ -6,7 +6,7 @@ use App\Produto;
 
 require_once __DIR__ . '/vendor/autoload.php';
 
-echo "================= Sistemas Integrados =================";
+echo "================= Produto =================";
 echo "<br><br><br>";
 
 $produto = new Produto();
